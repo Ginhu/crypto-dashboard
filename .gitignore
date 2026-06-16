@@ -9,3 +9,6 @@ Thumbs.db
 
 coverage/
 .nyc_output/
+
+CLAUDE.md
+docs/
